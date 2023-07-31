@@ -1,0 +1,31 @@
+.list-items {
+  list-style-type: none;
+  width: 20%;
+  border: 2px solid #b5b7c4;
+  border-radius: 5px;
+  padding-left: 10px;
+  margin-right: 20px;
+}
+.title-container {
+  display: flex;
+  justify-content: space-between;
+}
+.star {
+  outline: none;
+  border: none;
+  background-color: white;
+  cursor: pointer;
+}
+.star-image {
+  height: 25px;
+  width: 25px;
+}
+.title1 {
+  color: #171f46;
+  font-weight: bold;
+  font-size: 20px;
+}
+.date1 {
+  color: #b5b7c4;
+  font-weight: bold;
+}
